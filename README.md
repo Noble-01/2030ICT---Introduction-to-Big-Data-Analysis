@@ -15,8 +15,10 @@ deeper. You also need to propose solutions for some challenges which are based o
 #Section 1 – Data Analysis and Interpretation.
 
 **1. Analyse by comparison**
+
 Choose your two favourite cities/locations. We will explore the difference between them by
 answering the following questions:
+
 ✓ Which city has more job? How many jobs each type (casual, fulltime, etc.) are there in each
 city? (1 point)
 ✓ In each city, which are top 5 job sectors? How many jobs are there in each sector? (1 point)
@@ -28,7 +30,9 @@ more well-paid? (1 point)
 point)
 
 **2. Analyse by time. **
+
 In this part, we will analyse the jobs based on the posting date.
+
 ✓ Visualise the number of job posts by month. (1 point)
 ✓ Visualise the number of job posts by day of week. (1 point)
 ✓ Visualise the number of job posts by day of the month. (1 point)
@@ -37,6 +41,7 @@ In this part, we will analyse the jobs based on the posting date.
 Give your own conclusion. (2 points)
 
 **3. Forecasting and skill extractions.**
+
 ✓ Using moving average for 7 days and 30 days to predict the number of job postings and
 visualise them in line chart. Which one creates a better prediction? Explain your choice.** (3
 points)
